@@ -1,10 +1,12 @@
 The city of Nashville provides a dataset of known burials in city cemeteries from 1846 through 1979. This dataset holds factual information, but it also offers a fascinating glimpse into historical trends in medicine, literacy, racial equality, and more.
 
-The Nashville City Cemetery Association has asked you to explore the dataset to create charts that can be used in marketing materials. The following exercises are a starting point for exploring the data and creating visualizations. Once you have completed the exercises below, create additional visualizations to accompany storytelling points. An example of this is shown below for the first exercise.
+  Create charts that can be used in marketing materials. The following chart are a starting point for exploring the data and creating visualizations with storytelling points.
 
 ![Top 5 causes of death for each month](/assets/total_causes_death_each_month.png)
 
-1.	Use a pivot table to find the 10 most common (known) recorded causes of death, and evaluate the counts of each type. Once you have your metrics, plot these in a **bar chart**. In the analysis of the top 10 causes of death, you may see spelling mistakes that are affecting your counts. For example, you can assume Cholera and Cholrea are the same cause of death. Create a new column in the original dataset to update spelling errors to make your count of the top 10 causes more accurate. You will need to **refresh your pivot table** to see changes applied.
+1.	Used a pivot table to find the 10 most common (known) recorded causes of death, and evaluate the counts of each type. have metrics, plot them in a **bar chart**. In the analysis of the top 10 causes of death, notice for spelling mistakes that are affecting counts. For example, assume Cholera and Cholrea are the same cause of death. Create a new column in the original dataset to update spelling errors to make count of the top 10 causes more accurate. **refresh pivot table** to see changes applied.
+
+![Top 10 cause of death](/assets/Top_10_cause_of_death.png)
 
 2.	Create a line chart showing number of burials per year. In what years were there the most burials? Any idea as to why?
 
